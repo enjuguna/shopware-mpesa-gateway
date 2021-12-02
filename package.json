@@ -1,0 +1,28 @@
+{
+  "title": "Mpesa-shopware-gateway",
+  "name": "mpesa-shopware",
+  "version": "4.2.3",
+  "scripts": {
+    "start": "node_modules/.bin/gulp watch"
+  },
+  "description": "Mpesa Gateway",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "license": "MIT",
+  "author": "Start Bootstrap",
+  "contributors": [
+    "Eric Njuguna (https://njuguna.codes/)"
+  ],
+  "devDependencies": {
+    "browser-sync": "2.26.13",
+    "del": "6.0.0",
+    "gulp": "4.0.2",
+    "merge-stream": "2.0.0"
+  }
+}

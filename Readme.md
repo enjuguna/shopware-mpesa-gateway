@@ -1,1 +1,1 @@
-##Mpesa shopware plugin
+##Mpesa shopware gateway
